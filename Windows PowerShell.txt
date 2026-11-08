@@ -1,0 +1,40 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+PS C:\Users\AF10> python
+Python 3.15.2 (tags/v3.15.2:5e58eaa, Oct 25 2026, 17:27:03) [MSC v.1951 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 5*5+9**4/7
+962.2857142857143
+>>> 6/2*12**18-9+10
+7.986999984265573e+19
+>>> 7*(9**6)/15+3
+248008.8
+>>> 15*65/(10**10)
+9.75e-08
+>>> 2+2
+4
+>>> v1=8;v2=10;v3=12;v4=20;v5=25;vf1=2.15;vf2=14.5;vf3=2.5;vf4=7.8;vf5=5.02;
+>>> v1**v3/v2+v3
+6871947685.6
+>>> v4+v5
+45
+>>> v2-v1/v3**v2
+9.999999999870795
+>>> v2+vf4-vf1**v3/(v2+v2)-v1
+-477.9884618806464
+>>> vf2/vf3**vf5-v2+v1/(v3-vf3)*v2
+-1.4331636045593577
+>>>
+KeyboardInterrupt
+>>> v3-vf2
+-2.5
+>>> v1**v2
+1073741824
+>>> vf3-vf5**vf4/v2/(v3*v1+v2)*vf3
+-686.3475801884172
+>>> vf2/vf5**vf1+vf3-vf4
+-4.848294882984552
+>>> v4+v5
+45
+>>>
